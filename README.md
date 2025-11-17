@@ -1,0 +1,2 @@
+# LocalX---Social-Media-Platform-for-Students-of-MITS-Gwalior
+ Built a full-stack social media web application , designed exclusively for MITS college students. Implemented secure authentication, post creation, likes, comments, real-time feed updates, and profile management. The platform ensures restricted access only to verified MITS students, providing a safe and campus-focused communication environment.
